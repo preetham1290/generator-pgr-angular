@@ -1,21 +1,21 @@
 {
   "name": "generator-pgr-angular",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Yeoman Generator for Spaneos Angular projects.",
   "keywords": [
     "yeoman-generator",
     "angular"
   ],
-  "homepage": "https://bitbucket.org/preetham1290/pgr-angular",
+  "homepage": "https://github.com/preetham1290/generator-pgr-angular",
   "author": {
     "name": "Preetham G R",
     "email": "preetham1290@gmail.com",
-    "url": "https://bitbucket.org/preetham1290/"
+    "url": "https://github.com/preetham1290"
   },
   "main": "app/index.js",
   "repository": {
     "type": "bitbucket",
-    "url": "https://bitbucket.org/preetham1290/"
+    "url": "https://github.com/preetham1290/generator-pgr-angular"
   },
   "scripts": {
     "test": "mocha"
